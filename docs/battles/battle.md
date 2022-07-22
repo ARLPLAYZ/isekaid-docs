@@ -10,6 +10,7 @@ To fight monsters, type `$map` to view maps. Use the left and right arrows to na
 Defeating monsters give you experience and gold. There is also a chance to drop equipment. Equipment can be more frequent and have a higher rarity at higher maps.
 
 Levelling up from experience gives you **5 stat points**. Stat points can be used to buff up your base stats:
+
 * health - total hitpoints
 * strength - increases damage dealt for strength attackers
 * defense - reduces damage taken
