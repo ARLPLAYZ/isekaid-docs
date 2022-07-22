@@ -1,0 +1,46 @@
+site_name: Isekai'd Documentation
+theme: 
+  name: 'material'
+  logo: assets/logo.png
+  favicon:
+    'images/favicon.ico'
+  features:
+    - navigation.tabs
+    - navigation.instant
+    - content.tabs.link
+
+
+  palette:
+    scheme: slate
+    primary: 'lime'
+    accent: 'Violet'
+  font:
+    text: 'Roboto'
+    code: 'Fira Mono'
+  
+
+extra_css: 
+  - stylesheet/style.css
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.keys
+  - attr_list
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.tabbed:
+      alternate_style: true 
+nav: 
+  - Home: 
+    - Home: index.md
+    - Table of contents: SUMMARY.md
+    - FAQ: FAQ.md
+  - Getting Started: getting-started/getting-started.md
+  - Subclasses: subclasses/subclasses.md
+  - Trade: trade/trade.md
+  - Skills: skills/skills.md
+  - Equipment: equipment/equipment.md
+  - Battles: battles/battle.md
