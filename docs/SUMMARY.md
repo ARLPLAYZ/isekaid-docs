@@ -14,3 +14,6 @@
 
 <h3>Equipment </h3>
 * [Equipment](equipment/equipment.md)
+
+### Battling
+* [Battles](battles/battle.md)
