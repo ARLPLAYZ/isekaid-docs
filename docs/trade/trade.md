@@ -8,4 +8,5 @@ Trading can be used to exchange gold or items.<br>Send a trade by using $trade <
 
     Make sure you are getting the correct items or gold before typing confirm.
 
-<img src = "../../assets/trade.gif">
+!!! example
+    <img src = "../../assets/trade.gif">

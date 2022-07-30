@@ -1,6 +1,5 @@
 # Equipment
 Equipment is a great way to boost your stats. Weapons have different rarities:
-
 * common
 * rare
 * epic 

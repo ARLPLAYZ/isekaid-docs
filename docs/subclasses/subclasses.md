@@ -12,4 +12,5 @@ Divided into warlock, alchemist and elementalist
 ## Rogue subclasses
 Divided into soulthief, trickster and assassin
 
-<img src = "../../assets/subclass.gif">
+!!! example 
+    <img src = "../../assets/subclass.gif">

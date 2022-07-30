@@ -18,8 +18,8 @@ Levelling up from experience gives you **5 stat points**. Stat points can be use
 * dexterity - speed, used for move priority
 
 To add stat points use the command `$stat {stat type} {no. of stat points}.
-!!! warning
-    You cannot undo adding points
+
+You can use gold to buy items from the shop! Use `$shop` to view available items. Use `$buy {item}` to buy an item.
 
 ## Battling Players
 
