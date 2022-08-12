@@ -45,3 +45,10 @@ nav:
   - Equipment: equipment/equipment.md
   - Battles: battles/battle.md
   - Fishing: fishing/fishing.md
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/ARLPLAYZ
+      name: ARLPLAYZ#5097 
+   
+      
